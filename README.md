@@ -77,9 +77,6 @@
     - sys (usually part of Python 3.x installations)
     - pytmx (https://pypi.org/project/PyTMX/)
 - Once the dependencies are installed, you can run the game by:
-```
-python main.py
-```
 
-## Authors
-- [@Vidhish-Trivedi](https://github.com/Vidhish-Trivedi)
+
+Note: Project has been build by someone else. I have added a few additonal features.
